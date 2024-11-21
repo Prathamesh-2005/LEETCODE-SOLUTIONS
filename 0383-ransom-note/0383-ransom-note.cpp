@@ -1,22 +1,24 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        map<char ,int >count;
 
-        for(auto c:magazine)
+        map<char,int>m1;
+        
+
+        for(auto m:magazine)
         {
-            count[c]++;
-
+            m1[m]++;
         }
 
-        for(auto c:ransomNote)
+        for(auto m:ransomNote)
         {
-            if(count[c]==0)
-             return false;
-              count[c]--;
+            if(m1[m]==0)
+            {
+                return  false;
+            }
+            m1[m]--;
         }
-       
-
         return true;
+        
     }
 };
