@@ -1,20 +1,43 @@
 class Solution {
 public:
-    void dfs(int u,vector<vector<int>>& adj,vector<bool>& visited)
-    {
-        if(visited[u]==true)
-        {
-            return ;
-        }
-        visited[u]=true; 
+    // void dfs(int u,vector<vector<int>>& adj,vector<bool>& visited)
+    // {
+    //     if(visited[u]==true)
+    //     {
+    //         return ;
+    //     }
+    //     visited[u]=true; 
 
-        for(int v=0;v<adj.size();v++)
-        {
-            if(adj[u][v]==1 && !visited[v])
+    //     for(int v=0;v<adj.size();v++)
+    //     {
+    //         if(adj[u][v]==1 && !visited[v])
+    //         {
+    //             dfs(v,adj,visited);
+    //         }
+    //     }
+    // }
+
+    void bfs(int u,vector<vector<int>>& adj,vector<bool>& visited)
+    {
+       queue<int>q;
+       visited[u]=true;
+       q.push(u);
+
+       while(!q.empty())
+       {
+         int f=q.front();
+         q.pop();
+
+         for(int v=0;v<adj.size();v++)
+         {
+            if(!visited[v] && adj[f][v]==1)
             {
-                dfs(v,adj,visited);
+                q.push(v);
+                visited[v]=true;
             }
-        }
+         }
+       }
+
     }
     int findCircleNum(vector<vector<int>>& adj) {
         int n=adj.size();
@@ -26,7 +49,7 @@ public:
         {
              if(!visited[i])
              {
-                dfs(i,adj,visited);
+                bfs(i,adj,visited);
                 ans++;
              }
         }
