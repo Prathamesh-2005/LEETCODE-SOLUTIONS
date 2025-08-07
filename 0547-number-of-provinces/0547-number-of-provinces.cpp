@@ -20,8 +20,8 @@ public:
     void bfs(int u,vector<vector<int>>& adj,vector<bool>& visited)
     {
        queue<int>q;
-       visited[u]=true;
        q.push(u);
+       visited[u]=true;
 
        while(!q.empty())
        {
@@ -30,10 +30,9 @@ public:
 
          for(int v=0;v<adj.size();v++)
          {
-            if(!visited[v] && adj[f][v]==1)
+            if(!visited[v] && adj[u][v]==1)
             {
-                q.push(v);
-                visited[v]=true;
+                bfs(v,adj,visited);
             }
          }
        }
