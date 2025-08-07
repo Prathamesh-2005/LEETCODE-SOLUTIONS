@@ -30,9 +30,10 @@ public:
 
          for(int v=0;v<adj.size();v++)
          {
-            if(!visited[v] && adj[u][v]==1)
+            if(!visited[v] && adj[f][v]==1)
             {
-                bfs(v,adj,visited);
+                q.push(v);
+                visited[v]=true;
             }
          }
        }
