@@ -54,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Sorting
 |  |
 | ------- |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
