@@ -12,44 +12,29 @@
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>>ans;
-        if(root==nullptr)
-        {
-            return {};
-        }
-        queue<TreeNode*>q;
-        q.push(root);
-        bool flag=true;
+        vector<vector<int>> ans;
+        if(!root) return ans;
 
-        while(!q.empty())
-        {
-            int sz=q.size();
-            vector<int>temp(sz);
+        queue<TreeNode*> dq;
+        dq.push(root);
+        bool reverseFlag = false;
 
-            for(int i=0;i<sz;i++)
-            {
-                TreeNode* node=q.front();
-                q.pop();
-                int idx;
-                if(flag)
-                {
-                    idx=i;
-                }else{
-                    idx=sz-i-1;             
-                    }
-                temp[idx]=node->val;
+        while(!dq.empty()){
+            int size = dq.size();
+            vector<int> level;
 
-                if(node->left)
-                {
-                    q.push(node->left);
-                }
-                if(node->right)
-                {
-                    q.push(node->right);
-                }
+            for(int i=0;i<size;i++){
+                TreeNode* temp = dq.front(); dq.pop();
+                level.push_back(temp->val);
+                if(temp->left) dq.push(temp->left);
+                if(temp->right) dq.push(temp->right);
             }
-            flag=!flag;
-            ans.push_back(temp);
+
+            if(reverseFlag)
+                std::reverse(level.begin(), level.end());
+
+            reverseFlag = !reverseFlag;
+            ans.push_back(level);
         }
         return ans;
     }
