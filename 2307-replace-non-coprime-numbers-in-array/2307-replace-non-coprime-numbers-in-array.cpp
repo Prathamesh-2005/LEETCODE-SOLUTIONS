@@ -24,12 +24,12 @@ public:
 
                 int g = gcd(a, b);
 
-                if (g == 1) {
+                if (g > 1) {
+                    st.push(lcm(a,b));
+                } else {
                     st.push(b);
                     st.push(a);
                     break;
-                } else {
-                    st.push(lcm(a, b));
                 }
             }
         }
