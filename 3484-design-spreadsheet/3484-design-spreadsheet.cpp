@@ -4,7 +4,7 @@ public:
     Spreadsheet(int rows) {
         
     }
-      bool isNumber(const string &s) {
+    bool isNumber(string &s) {
         if (s.empty()) return false;
         for (char c : s) {
             if (!isdigit(c) && c != '-') return false;
