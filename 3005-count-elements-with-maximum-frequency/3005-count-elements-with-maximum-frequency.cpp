@@ -6,12 +6,13 @@ public:
         for(auto& num:nums)
         {
             mp[num]++;
+            mx=max(mx,mp[num]);
         }
 
-        for(auto& m:mp)
-        {
-            mx=max(mx,m.second);
-        }
+        // for(auto& m:mp)
+        // {
+        //     mx=max(mx,m.second);
+        // }
         int ans=0;
         for(auto& m:mp)
         {
