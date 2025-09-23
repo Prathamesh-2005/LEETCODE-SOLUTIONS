@@ -19,10 +19,17 @@ public:
             return dp[idx][target];
         }
 
-        int pick=solve(0,nums,target-nums[idx]);
-        int non_pick=solve(idx+1,nums,target);
+        // int pick=solve(0,nums,target-nums[idx]);
+        // int non_pick=solve(idx+1,nums,target);
 
-        return dp[idx][target]=pick+non_pick;
+        int res=0;
+        for(int i=idx;i<n;i++)
+        {
+            int pick=solve(0,nums,target-nums[i]);
+            res+=pick;
+        }
+
+        return dp[idx][target]=res;
     }
     int combinationSum4(vector<int>& nums, int target) {
         n=nums.size();
