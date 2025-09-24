@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0491-non-decreasing-subsequences) |
 | [0648-replace-words](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0648-replace-words) |
 | [1006-vowel-spellchecker](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1006-vowel-spellchecker) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3376-longest-common-suffix-queries) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0047-permutations-ii) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Dynamic Programming
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Greedy
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Geometry
 |  |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1022-unique-paths-iii) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Number Theory
 |  |
 | ------- |
@@ -275,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
+## Combinatorics
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
