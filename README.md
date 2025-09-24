@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2047-find-a-peak-element-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Binary Tree
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1876-map-of-highest-peak](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1876-map-of-highest-peak) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2047-find-a-peak-element-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1876-map-of-highest-peak) |
+| [2047-find-a-peak-element-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
