@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3376-longest-common-suffix-queries) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Greedy
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Bitmask
+|  |
+| ------- |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
