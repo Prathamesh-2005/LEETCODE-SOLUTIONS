@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0648-replace-words) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0282-expression-add-operators) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0282-expression-add-operators) |
 | [0491-non-decreasing-subsequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1022-unique-paths-iii) |
