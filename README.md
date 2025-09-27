@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0491-non-decreasing-subsequences) |
 | [0648-replace-words](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0648-replace-words) |
 | [1006-vowel-spellchecker](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1006-vowel-spellchecker) |
+| [1160-letter-tile-possibilities](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0648-replace-words) |
 | [1006-vowel-spellchecker](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1006-vowel-spellchecker) |
+| [1160-letter-tile-possibilities](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-letter-tile-possibilities](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Array
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1022-unique-paths-iii) |
+| [1160-letter-tile-possibilities](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
