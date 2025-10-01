@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0093-restore-ip-addresses) |
+| [0127-word-ladder](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0140-word-break-ii) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0226-invert-binary-tree) |
