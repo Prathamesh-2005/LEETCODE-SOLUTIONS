@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0282-expression-add-operators) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
