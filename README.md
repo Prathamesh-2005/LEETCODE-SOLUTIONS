@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0212-word-search-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0212-word-search-ii) |
 | [0377-combination-sum-iv](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0491-non-decreasing-subsequences) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0140-word-break-ii) |
 | [0377-combination-sum-iv](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
