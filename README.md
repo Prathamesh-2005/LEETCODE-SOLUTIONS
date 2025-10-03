@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0491-non-decreasing-subsequences) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0648-replace-words](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0648-replace-words) |
 | [1006-vowel-spellchecker](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0387-first-unique-character-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0648-replace-words](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0648-replace-words) |
 | [1006-vowel-spellchecker](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0535-encode-and-decode-tinyurl) |
 ## Trie
 |  |
 | ------- |
@@ -369,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0140-word-break-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
