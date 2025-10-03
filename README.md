@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0031-next-permutation) |
+| [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Depth-First Search
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 ## Bitmask
 |  |
 | ------- |
