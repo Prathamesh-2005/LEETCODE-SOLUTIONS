@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
 | [2047-find-a-peak-element-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3376-longest-common-suffix-queries) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
