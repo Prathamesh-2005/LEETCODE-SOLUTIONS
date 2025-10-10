@@ -1,24 +1,23 @@
 class Solution {
 public:
-    void solve(int idx, vector<int>& energy, int k, int& ans) {
-        if(idx >= energy.size()) return;
+    int solve(int idx, vector<int>& energy, int k, vector<int>& dp) {
+        if(idx >= energy.size()) return 0;
 
-        int curr = 0;
-        int i = idx;
+        if(dp[idx] != INT_MIN) return dp[idx]; 
 
-        while(i < energy.size()) {
-            curr += energy[i];
-            i += k;
-        }
-
-        ans = max(ans, curr);
-
-        solve(idx + 1, energy, k, ans);
+        int curr = energy[idx] + solve(idx + k, energy, k, dp);
+        return dp[idx]=curr;
     }
 
     int maximumEnergy(vector<int>& energy, int k) {
+        int n = energy.size();
         int ans = INT_MIN;
-        solve(0, energy, k, ans);
+        vector<int> dp(n, INT_MIN);  
+
+        for(int i = 0; i < n; i++) {
+            ans = max(ans, solve(i, energy, k, dp));
+        }
+
         return ans;
     }
 };
