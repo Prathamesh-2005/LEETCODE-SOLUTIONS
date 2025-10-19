@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
