@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Array
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0282-expression-add-operators) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Matrix
 |  |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Number Theory
 |  |
