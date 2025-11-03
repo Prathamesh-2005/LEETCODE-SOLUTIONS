@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1876-map-of-highest-peak) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Two Pointers
 |  |
