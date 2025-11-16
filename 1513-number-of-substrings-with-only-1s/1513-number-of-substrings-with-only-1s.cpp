@@ -1,21 +1,29 @@
 #define mod 1000000007
-
 class Solution {
 public:
     int numSub(string s) {
-        long long ans = 0, cnt = 0;
+        long long ans = 0;
+        int n = s.length();
+        int i = 0;       
+        int j = 0;      
 
-        for (char c : s) {
-            if (c == '1') {
-                cnt++;
+        while (j < n) {
+            if (s[j] == '1') {
+                j++;
             } else {
-                ans = (ans + (cnt * (cnt + 1) / 2)) % mod;
-                cnt = 0;
+                int len = j - i;
+                if (len > 0)
+                    ans = (ans + (1LL * len * (len + 1) / 2)) % mod;
+                
+                j++;
+                i = j; 
             }
         }
 
-        ans = (ans + (cnt * (cnt + 1) / 2)) % mod;
+        int len = j - i;
+        if (len > 0)
+            ans = (ans + (1LL * len * (len + 1) / 2)) % mod;
 
-        return ans;
+        return ans % mod;
     }
 };
