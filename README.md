@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0753-open-the-lock) |
 | [1006-vowel-spellchecker](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
+| [1250-longest-common-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
