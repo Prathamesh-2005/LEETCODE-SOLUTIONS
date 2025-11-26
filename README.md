@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0583-delete-operation-for-two-strings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0494-target-sum) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
+| [0392-is-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
