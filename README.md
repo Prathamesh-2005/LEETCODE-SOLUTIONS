@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
@@ -453,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
