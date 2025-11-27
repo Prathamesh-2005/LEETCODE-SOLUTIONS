@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0212-word-search-ii) |
 | [0377-combination-sum-iv](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0377-combination-sum-iv) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0282-expression-add-operators) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
