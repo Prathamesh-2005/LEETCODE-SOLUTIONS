@@ -7,9 +7,9 @@ void dfs(int node, int parent, vector<int>& values,
 
     for(int child : mp[node]) {
         if(child != parent) {
-            long long childSum = 0;
-            dfs(child, node, values, mp, ans, k, childSum);
-            sum += childSum;
+            long long childsum = 0;
+            dfs(child, node, values, mp, ans, k, childsum);
+            sum += childsum;
         }
     }
 
@@ -28,5 +28,4 @@ int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& valu
     dfs(0, -1, values, mp, ans, k, total);
     return ans;
 }
-
 };
