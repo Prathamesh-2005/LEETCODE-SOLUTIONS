@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0144-binary-tree-preorder-traversal) |
+| [2211-count-collisions-on-a-road](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Divide and Conquer
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3336-water-bottles-ii) |
