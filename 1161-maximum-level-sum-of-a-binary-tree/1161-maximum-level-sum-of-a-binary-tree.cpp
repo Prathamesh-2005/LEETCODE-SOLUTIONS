@@ -18,7 +18,7 @@ public:
         }
         queue<TreeNode*>q;
         q.push(root);
-        int ans=1;
+        int ans=INT_MAX;
         int level=1;
         int sum=INT_MIN;
         while(!q.empty())
