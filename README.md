@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0887-super-egg-drop](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
 | [2047-find-a-peak-element-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
+| [0887-super-egg-drop](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0282-expression-add-operators) |
+| [0887-super-egg-drop](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [1390-four-divisors](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
