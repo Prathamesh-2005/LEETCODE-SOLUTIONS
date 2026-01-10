@@ -1,5 +1,5 @@
 class Solution {
-    public String lcs(String s1,String s2)
+    public int lcs(String s1,String s2)
     {
         int n=s1.length();
         int m=s2.length();
@@ -22,63 +22,30 @@ class Solution {
             {
                 if(s1.charAt(i-1)==s2.charAt(j-1))
                 {
-                    dp[i][j]=1+dp[i-1][j-1];
+                    dp[i][j]=s1.charAt(i-1)+dp[i-1][j-1];
                 }else
                 {
                     dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);
                 }
             }
         }
-        int i=n,j=m;
-        StringBuilder ans=new StringBuilder();
-
-        while(i>0 && j>0)
-        {
-            if(s1.charAt(i-1)==s2.charAt(j-1))
-            {
-                ans.append(s1.charAt(i-1));
-                i--;
-                j--;
-            }
-            else if(dp[i-1][j]>dp[i][j-1])
-            {
-                i--;
-            }
-            else{
-                j--;
-            }
-        }
-        ans.reverse();
-        System.out.println(ans.toString());
-
-        return ans.toString();
+        return dp[n][m];
     }
-    public int minimumDeleteSum(String s1, String s2) {
-        string temp=lcs(s1,s2);
-        int ans=0;
-        int i=0,j=0;
-        int n=s1.length();
-        int m=s2.length();
-        while(i<temp.length())
-        {
-            if(temp.charAt(i)!=s1.charAt(j))
-            {
-                ans+=s1.charAt(j);
-                j++;
-            }
-            else{
-                i++;
-                j++;
-            }
-        }
+   public int calculate(String s)
+   {
+     int ans=0;
+       for(int i=0;i<s.length();i++)
+       {
+         ans+=s.charAt(i);
+       }
+       return ans;
+   }
+   public int minimumDeleteSum(String s1, String s2) {
+    int temp = lcs(s1, s2);
 
-        if(j!=n)
-        {
-            for(int k=j;k<n;k++)
-            {
-                ans+=s1.charAt(k);
-            }
-        }
-        
-    }
+    int asc1=calculate(s1);
+    int asc2=calculate(s2);
+    int ans=asc1+asc2-2*temp;
+    return ans;
+}
 }
