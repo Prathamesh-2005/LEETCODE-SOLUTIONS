@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2211-count-collisions-on-a-road](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0212-word-search-ii) |
 | [0498-diagonal-traverse](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0498-diagonal-traverse) |
@@ -489,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
