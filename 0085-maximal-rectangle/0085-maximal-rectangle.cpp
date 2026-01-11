@@ -66,9 +66,9 @@ public:
             {
                 if(matrix[i][j]=='1')
                 {
-                    prefix[i]+=1;
+                    prefix[j]+=1;
                 }else{
-                    prefix[i]=0;
+                    prefix[j]=0;
                 }
             }
             ans=max(ans,help(prefix));
