@@ -26,7 +26,7 @@ public:
         return temp;
     }
     int maxPathSum(TreeNode* root) {
-        int ans=0;
+        int ans=INT_MIN;
         solve(root,ans);
         return ans;
     }
