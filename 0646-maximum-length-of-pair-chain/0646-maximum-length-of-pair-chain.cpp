@@ -3,7 +3,7 @@ public:
     int findLongestChain(vector<vector<int>>& nums) {
         int n=nums.size();
         vector<int>dp(n,1);
-
+        sort(nums.begin(),nums.end());
         int ans=1;
 
         for(int i=0;i<n;i++)
@@ -12,8 +12,7 @@ public:
             {
                 int b=nums[j][1];
                 int c=nums[i][0];
-
-                if((b<c || c<b) && b!=c)
+                if(b<c)
                 {
                     dp[i]=max(dp[i],dp[j]+1);
                     ans=max(ans,dp[i]);
