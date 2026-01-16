@@ -1,0 +1,29 @@
+class Solution {
+public:
+    int dp[2501][2501];
+    int solve(vector<int>& nums,int i,int prev)
+    {
+        if(i==nums.size())
+        {
+            return 0;
+        }
+        if(dp[i][prev+1]!=-1)
+        {
+            return dp[i][prev+1];
+        }
+        int pick=0;
+        if(prev==-1 || nums[prev]<nums[i])
+        {
+            pick=1+solve(nums,i+1,i);
+        }
+        int not_pick;
+        not_pick=solve(nums,i+1,prev);
+        
+        return dp[i][prev+1]=max(pick,not_pick);
+    }
+    int lengthOfLIS(vector<int>& nums) {
+        int n=nums.size();
+        memset(dp,-1,sizeof(dp));
+        return solve(nums,0,-1);
+    }
+};
