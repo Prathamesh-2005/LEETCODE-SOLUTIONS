@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1073-number-of-enclaves](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1073-number-of-enclaves) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1390-four-divisors](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1073-number-of-enclaves) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1876-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
