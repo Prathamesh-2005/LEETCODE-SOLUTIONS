@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0887-super-egg-drop](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0887-super-egg-drop) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
 | [2047-find-a-peak-element-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1073-number-of-enclaves](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1073-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1390-four-divisors](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1073-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1876-map-of-highest-peak](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1975-maximum-matrix-sum) |
@@ -534,5 +537,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
