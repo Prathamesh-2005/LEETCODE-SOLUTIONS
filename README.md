@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
