@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1876-map-of-highest-peak) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1975-maximum-matrix-sum) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1975-maximum-matrix-sum) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Two Pointers
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Depth-First Search
