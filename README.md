@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2047-find-a-peak-element-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Brainteaser
 |  |
