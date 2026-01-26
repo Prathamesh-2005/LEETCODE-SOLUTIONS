@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## String
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-longest-common-suffix-queries](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3376-longest-common-suffix-queries) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Brainteaser
 |  |
 | ------- |
