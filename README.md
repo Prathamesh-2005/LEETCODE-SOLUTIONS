@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0648-replace-words](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0648-replace-words) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0753-open-the-lock](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0753-open-the-lock) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0887-super-egg-drop](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
