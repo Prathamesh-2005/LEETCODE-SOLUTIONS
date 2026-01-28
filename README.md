@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
