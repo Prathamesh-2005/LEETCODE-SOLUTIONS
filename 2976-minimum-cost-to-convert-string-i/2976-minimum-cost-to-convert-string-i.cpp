@@ -14,7 +14,7 @@ public:
             pq.pop();
             char ch=top.second;
             int dist=top.first;
-            if(dist > ans[ch - 'a']) continue;
+
             for(auto& vec:mp[ch])
             {
                 int node=vec.first;
