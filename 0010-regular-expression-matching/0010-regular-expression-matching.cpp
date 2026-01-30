@@ -10,7 +10,7 @@ public:
             }
             return false;
         }
-        bool first=(!s.empty() && (p[0]==s[0] || p[0]=='.'));
+        bool first=(!s.empty() && !p.empty() && (p[0]==s[0] || p[0]=='.'));
         if(p[1]=='*')
         {
             bool not_take=solve(s,p.substr(2));
