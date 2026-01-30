@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0072-edit-distance) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
 ## Monotonic Stack
 |  |
