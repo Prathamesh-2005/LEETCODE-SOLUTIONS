@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2047-find-a-peak-element-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0144-binary-tree-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Divide and Conquer
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0085-maximal-rectangle) |
+| [2104-sum-of-subarray-ranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Indexed Tree
 |  |
 | ------- |
