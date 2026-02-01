@@ -22,8 +22,8 @@ public:
         while(!ride.empty() && st.find(ride.front())!=st.end())
         {
             st.erase(ride.front());
-            ride.pop();
             curr.erase(ride.front());
+            ride.pop();
         }
         if(ride.empty() || drive.empty())
         {
