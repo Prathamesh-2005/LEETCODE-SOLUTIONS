@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## String
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-longest-common-suffix-queries](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3376-longest-common-suffix-queries) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Sorting
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -572,9 +577,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1895-largest-magic-square) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
