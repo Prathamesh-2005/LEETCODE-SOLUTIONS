@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0144-binary-tree-preorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
