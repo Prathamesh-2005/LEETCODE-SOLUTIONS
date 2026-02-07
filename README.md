@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
+| [0565-array-nesting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0565-array-nesting) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0648-replace-words](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0648-replace-words) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0547-number-of-provinces) |
+| [0565-array-nesting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0565-array-nesting) |
 | [0695-max-area-of-island](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1073-number-of-enclaves) |
