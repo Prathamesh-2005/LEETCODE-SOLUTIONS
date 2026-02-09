@@ -62,10 +62,6 @@ class Solution {
         return node;
     }
     public TreeNode balanceBST(TreeNode root) {
-        if(height(root)!=-1)
-        {
-            return root;
-        }
         List<Integer> nodes=new ArrayList<>();
         dfs(root,nodes);
         Collections.sort(nodes);
