@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0887-super-egg-drop) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0753-open-the-lock](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0753-open-the-lock) |
+| [0875-koko-eating-bananas](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
