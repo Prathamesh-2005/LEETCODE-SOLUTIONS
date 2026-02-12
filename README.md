@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0887-super-egg-drop) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1006-vowel-spellchecker) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1022-unique-paths-iii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
