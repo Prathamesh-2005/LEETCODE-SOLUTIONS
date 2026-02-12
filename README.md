@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
 | [2047-find-a-peak-element-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2047-find-a-peak-element-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
