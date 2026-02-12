@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0491-non-decreasing-subsequences) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1895-largest-magic-square) |
