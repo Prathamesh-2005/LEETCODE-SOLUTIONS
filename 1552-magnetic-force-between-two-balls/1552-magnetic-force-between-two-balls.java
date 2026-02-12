@@ -18,7 +18,7 @@ class Solution {
         int n=position.length;
         int ans=0;
         Arrays.sort(position);
-        int l=1,h=position[n-1]-position[0];
+        int l=1,h=(int)1e9;
 
         while(l<=h)
         {
