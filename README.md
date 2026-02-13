@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3713-longest-balanced-substring-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## String
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3376-longest-common-suffix-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3714-longest-balanced-substring-ii) |
 ## Queue
 |  |
 | ------- |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1895-largest-magic-square) |
+| [3714-longest-balanced-substring-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
