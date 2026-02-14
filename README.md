@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0648-replace-words](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0648-replace-words) |
+| [0705-design-hashset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0705-design-hashset) |
 | [0753-open-the-lock](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0753-open-the-lock) |
 | [1006-vowel-spellchecker](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0648-replace-words) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0705-design-hashset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0753-open-the-lock](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0753-open-the-lock) |
 | [0875-koko-eating-bananas](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0875-koko-eating-bananas) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0535-encode-and-decode-tinyurl) |
+| [0705-design-hashset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0705-design-hashset) |
 ## Trie
 |  |
 | ------- |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0355-design-twitter](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
+| [0705-design-hashset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0705-design-hashset) |
 ## Backtracking
 |  |
 | ------- |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0535-encode-and-decode-tinyurl) |
+| [0705-design-hashset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0705-design-hashset) |
 ## Monotonic Queue
 |  |
 | ------- |
