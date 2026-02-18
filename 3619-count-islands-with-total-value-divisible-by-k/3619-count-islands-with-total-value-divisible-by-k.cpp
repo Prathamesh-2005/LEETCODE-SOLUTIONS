@@ -1,11 +1,12 @@
 class Solution {
 public:
+    typedef long long ll;
     vector<vector<int>>direc={{1,0},{0,1},{-1,0},{0,-1}};
     bool safe(int i,int j,int n,int m)
     {
         return (i<n && i>=0 && j<m && j>=0);
     }
-    void dfs(vector<vector<int>>& grid,int i,int j,vector<vector<bool>>& visited,int& sum,int n,int m)
+    void dfs(vector<vector<int>>& grid,int i,int j,vector<vector<bool>>& visited,ll& sum,int n,int m)
     {
         if(!safe(i,j,n,m))
         {
@@ -36,7 +37,7 @@ public:
             {
                 if(grid[i][j]!=0 && !visited[i][j])
                 {
-                    int sum=0;
+                    ll sum=0;
                     dfs(grid,i,j,visited,sum,n,m);
                     if(sum%k==0)
                     {
