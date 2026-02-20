@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-properties-graph](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3493-properties-graph) |
 | [3713-longest-balanced-substring-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-longest-common-suffix-queries](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3376-longest-common-suffix-queries) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-properties-graph](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3493-properties-graph) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3493-properties-graph](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3493-properties-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1876-map-of-highest-peak) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3493-properties-graph](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3493-properties-graph) |
 ## Stack
 |  |
 | ------- |
@@ -650,4 +654,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
+| [3493-properties-graph](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3493-properties-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [3493-properties-graph](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3493-properties-graph) |
 <!---LeetCode Topics End-->
