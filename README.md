@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search Tree
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1876-map-of-highest-peak) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3493-properties-graph](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3493-properties-graph) |
 ## Stack
