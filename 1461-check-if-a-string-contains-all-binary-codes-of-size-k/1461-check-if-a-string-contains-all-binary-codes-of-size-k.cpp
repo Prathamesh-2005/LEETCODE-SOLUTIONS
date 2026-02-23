@@ -8,10 +8,18 @@ public:
         while(j<n)
         {
             curr+=s[j];
-            if(curr.length()==k)
+            if(j-i+1==k)
             {
                 st.insert(curr);
-                curr.erase(0,1);
+            }
+            while(i<n && j-i+1>k)
+            {
+                i++;
+                curr.erase(curr.begin());
+                if(j-i+1==k)
+                {
+                    st.insert(curr);
+                }
             }
             j++;
         }
