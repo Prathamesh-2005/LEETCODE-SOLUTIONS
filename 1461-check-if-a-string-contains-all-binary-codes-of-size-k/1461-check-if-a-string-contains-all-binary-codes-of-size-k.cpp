@@ -28,6 +28,6 @@ public:
         {
             cout<<s<<endl;
         }
-        return st.size()==(int)(pow(2,k));
+        return st.size()==(1<<k);
     }
 };
