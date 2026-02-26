@@ -34,10 +34,18 @@ public:
     }
     
     int Front() {
+        if(curr==0)
+        {
+            return -1;
+        }
         return q[f];
     }
     
     int Rear() {
+        if(curr==0)
+        {
+            return -1;
+        }
         return q[r];
     }
     
