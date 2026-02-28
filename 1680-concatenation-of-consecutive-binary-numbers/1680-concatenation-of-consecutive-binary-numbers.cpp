@@ -19,7 +19,7 @@ public:
         {
             string curr=solve(i);
             int n=curr.length();
-            ans=(ans<<n)+i;
+            ans=((ans<<n)+i)%mod;
         }
         return ans%mod;
     }
