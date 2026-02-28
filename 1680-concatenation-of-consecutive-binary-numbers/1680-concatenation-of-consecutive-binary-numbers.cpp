@@ -9,6 +9,7 @@ public:
             ans+=((num%2)+'0');
             num/=2;
         }
+        cout<<ans<<endl;
         reverse(ans.begin(),ans.end());
         return ans;
     }
