@@ -14,16 +14,18 @@ public:
         }
         return ans;
     }
-    char findKthBit(int n, int k) {
-        string str="0";
-
-        while(n>0)
+    string solve(int curr,int n,int k,string ans)
+    {
+        if(curr==n)
         {
-            string curr=invert(str);
-            reverse(curr.begin(),curr.end());
-            str= str+ "1" + curr;
-            n--;
+            return ans;
         }
-        return str[k-1];
+        string str=invert(ans);
+        reverse(str.begin(),str.end());
+        ans= ans + "1" + str;
+        return solve(curr+1,n,k,ans);
+    }
+    char findKthBit(int n, int k) {
+        return solve(1,n,k,"0");
     }
 };
