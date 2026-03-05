@@ -8,9 +8,9 @@ class Solution {
         }
 
         int take = nums[idx] + solve(idx + 2, nums, n, dp);
-        int notTake = solve(idx + 1, nums, n, dp);
+        int not = solve(idx + 1, nums, n, dp);
 
-        return dp[idx] = Math.max(take, notTake);
+        return dp[idx] = Math.max(take, not);
     }
 
     public int rob(int[] nums) {
