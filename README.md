@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0535-encode-and-decode-tinyurl) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0355-design-twitter](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0705-design-hashset) |
@@ -674,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0187-repeated-dna-sequences) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
