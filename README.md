@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
