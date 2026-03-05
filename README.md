@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0944-delete-columns-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1022-unique-paths-iii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1022-unique-paths-iii) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0820-find-eventual-safe-states) |
+| [0994-rotting-oranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1022-unique-paths-iii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1073-number-of-enclaves) |
