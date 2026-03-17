@@ -29,7 +29,7 @@ public:
                     prefix[j]=0;
                 }
             }
-            ans=solve(prefix,m);
+            ans=max(ans,solve(prefix,m));
         }
         return ans;
     }
