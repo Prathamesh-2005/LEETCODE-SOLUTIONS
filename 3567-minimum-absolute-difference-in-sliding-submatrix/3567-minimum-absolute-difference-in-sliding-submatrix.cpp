@@ -11,7 +11,6 @@ public:
         {
             ans=min(ans,abs(*prev-*it));
             prev=it;
-            it++;
         }
         return ans;
     }
