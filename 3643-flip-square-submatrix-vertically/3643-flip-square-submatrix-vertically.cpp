@@ -3,23 +3,16 @@ public:
     vector<vector<int>> reverseSubmatrix(vector<vector<int>>& grid, int x, int y, int k) {
         int n=grid.size();
         int m=grid[0].size();
+        int row=x+k-1;
+        int col=y+k-1;
 
-        for(int i=0;i<n;i++)
+        for(int i=x;i<=row;i++)
         {
-            for(int j=0;j<m;j++)
+            for(int j=y;j<=col;j++)
             {
-                if(i==x && j==y)
-                {
-                    for(int p=j;p<j+k;p++)
-                    {
-                        for(int q=i;q<=i+k;q++)
-                        {
-
-                        }
-                        reverse(grid[p].begin(),grid[p].end());
-                    }
-                }
+                swap(grid[i][j],grid[row][j]);
             }
+            row--;
         }
         return grid;
     }
