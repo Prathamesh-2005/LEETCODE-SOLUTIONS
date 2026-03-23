@@ -2,6 +2,8 @@ class Solution {
 public:
     int mod=1e9+7;
     typedef  long long ll;
+    pair<ll,ll>dp[50][50];
+    bool check[50][50];
     pair<ll,ll> solve(int i,int j,vector<vector<int>>& grid,ll prod,int n,int m)
     {
         if(i==n-1 && j==m-1)
@@ -11,6 +13,10 @@ public:
         if(i>=n || j>=m)
         {
             return {LLONG_MIN,LLONG_MAX};
+        }
+        if(check[i][j])
+        {
+            return {dp[i][j].first,dp[i][j].second};
         }
         auto right=solve(i,j+1,grid,prod*grid[i][j],n,m);
         auto down=solve(i+1,j,grid,prod*grid[i][j],n,m);
@@ -31,19 +37,19 @@ public:
         }
         mx=*max_element(tmp.begin(),tmp.end());
         mn=*min_element(tmp.begin(),tmp.end());
-
-        return {mx,mn};
+        check[i][j]=true;
+        return dp[i][j]={mx,mn};
     }
     int maxProductPath(vector<vector<int>>& grid) {
         int n=grid.size();
         int m=grid[0].size();
+        memset(check,false,sizeof(check));
         auto ans= solve(0,0,grid,1,n,m); 
 
         if(ans.first<0)
         {
             return -1;
         }
-
         return ans.first%mod;   
     }
 };
