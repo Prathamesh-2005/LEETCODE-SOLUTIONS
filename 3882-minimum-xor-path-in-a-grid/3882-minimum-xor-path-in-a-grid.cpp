@@ -27,8 +27,7 @@ public:
         n = grid.size();
         m = grid[0].size();
 
-        vector<vector<vector<int>>> dp(n, vector<vector<int>>(m, vector<int>(1024, -1)));
-
+        vector<vector<vector<int>>>dp(n,vector<vector<int>>(m,vector<int>(1024,-1)));
         return dfs(0, 0, 0, grid, dp);
     }
 };
