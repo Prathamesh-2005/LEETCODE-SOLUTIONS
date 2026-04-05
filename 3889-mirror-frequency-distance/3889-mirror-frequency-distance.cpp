@@ -29,7 +29,7 @@ public:
         for(int i=0;i<s.length();i++)
         {
             char ch=s[i];
-            if(st.find(ch)!=st.end())
+            if(st.find(ch)!=st.end() || st.find(miro[i])!=st.end())
             {
                 continue;
             }
