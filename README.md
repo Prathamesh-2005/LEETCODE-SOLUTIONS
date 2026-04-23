@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0190-reverse-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0954-maximum-sum-circular-subarray) |
