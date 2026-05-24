@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1340-jump-game-v](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1340-jump-game-v) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1390-four-divisors](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
+| [1340-jump-game-v](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1340-jump-game-v) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1340-jump-game-v](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1340-jump-game-v) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
