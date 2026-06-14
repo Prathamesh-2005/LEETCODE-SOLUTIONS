@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1048-longest-string-chain](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS-ACE-PLACEMENT-ROAD-TO-20-LPA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Depth-First Search
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Divide and Conquer
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0148-sort-list) |
 | [0355-design-twitter](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/0705-design-hashset) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prathamesh-2005/LEETCODE-SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
