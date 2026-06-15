@@ -14,21 +14,31 @@ public:
         ListNode* slow=head;
         ListNode* fast=head;
         ListNode* prev=nullptr;
+
         if(head==nullptr)
         {
             return head;
         }
-        while(fast && fast->next)
+
+        while(fast!=nullptr && fast->next!=nullptr)
         {
             prev=slow;
             slow=slow->next;
             fast=fast->next->next;
+
         }
+        //single node
         if(prev==nullptr)
         {
-            return head;
+            head=nullptr;
         }
-        prev->next=slow->next;
+        else {
+            prev->next=slow->next;
+            slow->next=nullptr;
+
+        }
         return head;
+        //TC=O(n/2)
+        
     }
 };
