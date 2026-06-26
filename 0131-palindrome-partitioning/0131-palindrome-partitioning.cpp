@@ -1,39 +1,43 @@
 class Solution {
 public:
-    bool palindrome(string& s,int i,int j)
+    bool check(string s,int idx1,int idx2)
     {
-        while(i<=j)
+        int i=idx1;
+        int j=idx2;
+
+        while(i<j)
         {
-            if(s[i++]!=s[j--])
+            if(s[i]!=s[j])
             {
                 return false;
             }
+            i++;
+            j--;
         }
         return true;
     }
-    void solve(int idx,string ip,vector<string>& op,vector<vector<string>>& ans)
+    void solve(int idx,string &s,vector<vector<string>>& ans,vector<string>& curr)
     {
-        if(idx==ip.length())
+        if(idx==s.length())
         {
-            ans.push_back(op);
+            ans.push_back(curr);
+            return ;
         }
 
-        for(int i=idx;i<ip.length();i++)
+        for(int j=idx;j<s.length();j++)
         {
-            if(palindrome(ip,idx,i))
+            if(check(s,idx,j))
             {
-                op.push_back(ip.substr(idx,i-idx+1));
-                solve(i+1,ip,op,ans);
-                op.pop_back();
+                curr.push_back(s.substr(idx,j-idx+1));
+                solve(j+1,s,ans,curr);
+                curr.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
         vector<vector<string>>ans;
-        vector<string>op;
-        int idx=0;
-        solve(idx,s,op,ans);
-
+        vector<string>curr;
+        solve(0,s,ans,curr);
         return ans;
     }
 };
