@@ -5,7 +5,7 @@ public:
         int i=idx1;
         int j=idx2;
 
-        while(i<j)
+        while(i<=j)
         {
             if(s[i]!=s[j])
             {
